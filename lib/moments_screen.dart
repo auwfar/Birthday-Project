@@ -126,7 +126,7 @@ class _OurMomentsState extends State<OurMoments> {
                     boxShadow: [
                       BoxShadow(
                         color: index == _currentIndex
-                            ? Colors.black.withOpacity(0.5) : Colors.transparent,
+                            ? Colors.transparent : Colors.black.withOpacity(0.5),
                         blurRadius: 20,
                       ),
                     ],

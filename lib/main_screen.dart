@@ -33,7 +33,7 @@ class _MainScreenState extends State<MainScreen> {
                         ),
                       ),
                       Text(
-                        "Arifah's Day",
+                        "Arifah's day",
                         style: TextStyle(
                           fontSize: 34,
                           color: Color(0xFFDB7093),
